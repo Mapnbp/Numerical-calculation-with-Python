@@ -1,6 +1,6 @@
 # Numerical calculation with Python
 
-Soluções de equações e sistemas de equações não-lineares, comno: método iterativo linear, método de Newton, método das secantes, métodos quase-Newton. Aproximação de funções: método dos mínimos quadrados, método dos mínimos quadrados ponderados, método dos mínimos quadrados móveis, problemas com restrições. Interpolação unidimensional e multidimensional. Interpolação polinomial de Lagrange e de Newton. Interpolação de Hermite. Interpolação por splines lineares, quadráticas e cúbicas. Polinômios de Bernstein. Aproximação de Bézier e B-splines. Integração numérica unidimensional e bidimensional: quadraturas de Newton-Cotes e Gauss.
+Soluções de equações e sistemas de equações não-lineares, como: método iterativo linear, método de Newton, método das secantes, métodos quase-Newton. Aproximação de funções: método dos mínimos quadrados, método dos mínimos quadrados ponderados, método dos mínimos quadrados móveis, problemas com restrições. Interpolação unidimensional e multidimensional. Interpolação polinomial de Lagrange e de Newton. Interpolação de Hermite. Interpolação por splines lineares, quadráticas e cúbicas. Polinômios de Bernstein. Aproximação de Bézier e B-splines. Integração numérica unidimensional e bidimensional: quadraturas de Newton-Cotes e Gauss.
 
 ### English
 
