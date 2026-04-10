@@ -10,22 +10,22 @@ The goal of this repository is to provide practical implementations of numerical
 
 ---
 
-### 🔹 Nonlinear Equations
+### - Nonlinear Equations
 - Root finding for single-variable equations:
   - Bisection method  
   - Newton's method  
 - Newton's method for systems of nonlinear equations  
  
 
-### 🔹 Approximation and Interpolation
+### - Approximation and Interpolation
 - Polynomial interpolation  
 - Function approximation techniques  
 
-### 🔹 Numerical Calculus
+### - Numerical Calculus
 - Numerical differentiation  
 - Numerical integration  
 
-### 🔹 Ordinary Differential Equations (ODEs)
+### - Ordinary Differential Equations (ODEs)
 - Initial value problems:
   - Taylor methods  
   - Runge-Kutta methods  
